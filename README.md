@@ -7,5 +7,7 @@ python2.7 和 BeautifulSoup lxml包
 Brief Inroduction
 =================
 1.获取词条所在网页的目录
+
 2.根据目录爬取内容
+
 3.以后还会进行扩展，期待哦～
