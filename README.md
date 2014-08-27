@@ -1,6 +1,6 @@
 wikiSpider
 ==========
-从维基百科上下载某些词条的内容，如machine learning
+从维基百科上，根据目录爬取某些词条的内容，如machine learning
 运行环境
 ========
 python2.7 和 BeautifulSoup lxml包
